@@ -1,11 +1,9 @@
 # DeepIM
 This is Tensorflow code for our recent paper: 
-T. V. Luong, Y. Ko, N. A. Vien, Duy H. N. Nguyen and M. Matthaiou, "Deep learning-based detector for OFDM-IM", IEEE Wireless Commun. Lett., Apr. 2019. Available: https://ieeexplore.ieee.org/document/8684894
+Toan Gian; Vu-Duc Ngo; Tien-Hoa Nguyen; Trung Tan Nguyen; Thien Van Luong "Deep Neural Network-Based Detector for Single-Carrier Index Modulation NOMA", Available: https://ieeexplore.ieee.org/abstract/document/9980150
 
-Created by Thien Van Luong, Queen's University of Belfast, UK; Email: tluong01@qub.ac.uk, Homepage: www.tvluong.wordpress.com.
 
-Requirements:
-- Tensorflow 1.9
+- Tensorflow 1.x, numpy=3.6
 - Numpy, matplotlib and scipy
 
-Baselines including ML and LLR detectors can be found at https://github.com/ThienVanLuong/ofdm_im.
+Baselines including ML and LLR detectors 
